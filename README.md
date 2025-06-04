@@ -48,6 +48,10 @@ python3 scanner.py https://example.com
 * -t, --threads: Number of concurrent threads (default: 10).
 * -l, --logfile: Output log file.
 
+## Screenshots
+
+![App Screenshot](screenshot/screen.jpg)
+
 ## Notes
 
 * This tool performs only passive and non-intrusive checks.
