@@ -1,5 +1,7 @@
 # WPScanner - WordPress Security Scanner
 
+![Python CI](https://github.com/abatsakidis/WPScanner---WordPress-Security-Scanner/actions/workflows/python.yml/badge.svg)
+
 ## Description
 
 WPScanner is a Python-based command-line tool for scanning WordPress websites for common security misconfigurations, exposed sensitive files, plugin and theme vulnerabilities, outdated versions, and other typical weaknesses. It is designed for educational and assessment purposes and supports threaded execution for faster scanning.
